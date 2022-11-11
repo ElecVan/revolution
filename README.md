@@ -4,7 +4,7 @@
  1. Install VEXcode Pro V5 
   How to install: https://docs.google.com/document/d/1PjyZXSYYNo7iCzeMYjt4o7TXErZUmR61tTh6YCIziIc/edit?usp=sharing
   
- 2. Download the ZIP file of the project
+ 2. Download the ZIP file of the project from the main branch
  3. In VEXcode, press 'Open' and then select 'Import Project'. This will open the windows file manager.
  4. Find the ZIP file you downloaded and open it.
  5. Find a cable that can plug into your computer and then into the USB mini port on the brain or controller
